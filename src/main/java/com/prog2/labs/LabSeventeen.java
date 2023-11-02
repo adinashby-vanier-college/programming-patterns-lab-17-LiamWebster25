@@ -14,9 +14,4 @@ public class LabSeventeen {
 	public static void main(String[] args) {
 
 	}
-
-	/**
-	 * Please refer to the README file for question(s) description
-	 */
-
 }
